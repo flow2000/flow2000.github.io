@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>心流</title>
+  <icon>https://blog.panghai.top/favicon.ico</icon>
+  <subtitle>保持谨慎，保持乐观</subtitle>
+  <link href="https://blog.panghai.top/atom.xml" rel="self"/>
+  
+  <link href="https://blog.panghai.top/"/>
+  <updated>2023-01-11T06:00:50.178Z</updated>
+  <id>https://blog.panghai.top/</id>
+  
+  <author>
+    <name>心流</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>2022年总结回顾</title>
+    <link href="https://blog.panghai.top/posts/800c9b83/"/>
+    <id>https://blog.panghai.top/posts/800c9b83/</id>
+    <published>2022-12-31T15:38:25.000Z</published>
+    <updated>2023-01-11T06:00:50.178Z</updated>
+    
+    
+    <summary type="html">xxx</summary>
+    
+    
+    
+    <category term="博客总结" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2%E6%80%BB%E7%BB%93/"/>
+    
+    
+    <category term="年度总结" scheme="https://blog.panghai.top/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记一次误操作删除了mysql容器以及后续的补救措施</title>
+    <link href="https://blog.panghai.top/posts/acf7fe48/"/>
+    <id>https://blog.panghai.top/posts/acf7fe48/</id>
+    <published>2022-12-30T09:42:35.000Z</published>
+    <updated>2023-01-11T06:00:50.182Z</updated>
+    
+    
+    <summary type="html">前几天想配置一下mysql容器的载挂目录，查了下资料后也照着做了，删除容器，运行容器，一切就这么自然而然，唯独没有备份数据。直到两天后我登不上图床那一刻我才发现数据库没了！</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.panghai.top/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="Docker" scheme="https://blog.panghai.top/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python的网络请求库requests简单使用</title>
+    <link href="https://blog.panghai.top/posts/39604062/"/>
+    <id>https://blog.panghai.top/posts/39604062/</id>
+    <published>2022-12-28T13:11:24.000Z</published>
+    <updated>2023-01-11T06:00:50.182Z</updated>
+    
+    
+    <summary type="html">requests库是python中一个最常用的网络请求库，在爬虫时使用甚多。它请求的方式简单，只需简单地调用其内置地get、post等方法即可发送请求。本文章从面向对象的角度来介绍其使用方法以及源码解析。</summary>
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.panghai.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.panghai.top/tags/Python/"/>
+    
+    <category term="Python内置模块" scheme="https://blog.panghai.top/tags/Python%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>lookbusy一款用于Linux系统的虚拟负载生成器</title>
+    <link href="https://blog.panghai.top/posts/5e251ac0/"/>
+    <id>https://blog.panghai.top/posts/5e251ac0/</id>
+    <published>2022-12-25T08:49:15.000Z</published>
+    <updated>2023-01-11T06:00:50.182Z</updated>
+    
+    
+    <summary type="html">可以虚拟产生CPU、内存、磁盘负载，给人造成一种系统繁忙的错觉，在一些需要系统负载的达标场景中非常有用</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.panghai.top/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="效率工具" scheme="https://blog.panghai.top/tags/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="Linux" scheme="https://blog.panghai.top/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记一次js引入属性defer的坑</title>
+    <link href="https://blog.panghai.top/posts/ed9358a/"/>
+    <id>https://blog.panghai.top/posts/ed9358a/</id>
+    <published>2022-12-24T09:39:38.000Z</published>
+    <updated>2023-01-11T06:00:50.182Z</updated>
+    
+    
+    <summary type="html">Uncaught ReferenceError: Notiflix is not defined的解决方法，附上通用解决方法</summary>
+    
+    
+    
+    <category term="敲敲代码" scheme="https://blog.panghai.top/categories/%E6%95%B2%E6%95%B2%E4%BB%A3%E7%A0%81/"/>
+    
+    
+    <category term="js" scheme="https://blog.panghai.top/tags/js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>可一键部署vercel的每日新闻</title>
+    <link href="https://blog.panghai.top/posts/f6d9d29a/"/>
+    <id>https://blog.panghai.top/posts/f6d9d29a/</id>
+    <published>2022-12-24T08:50:13.000Z</published>
+    <updated>2023-01-11T06:00:50.182Z</updated>
+    
+    
+    <summary type="html">好早之前在github闲逛看到zkeq的news，每日早报，还可以直接部署到vercel，本着白嫖精神也去试了试，看样式感觉还不错，就加了个二级域名解析。后来借着leonus 的微博热搜接口和自己捣鼓的B站热搜接口想了一下，何不也把这两个接口解析进去，还有url链接可以跳转过去，随后就花了两天对代码进行了重构。</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.panghai.top/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Python" scheme="https://blog.panghai.top/tags/Python/"/>
+    
+    <category term="Vercel" scheme="https://blog.panghai.top/tags/Vercel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>分享一款用于服务器上的TUI图形活动监视器——gotop</title>
+    <link href="https://blog.panghai.top/posts/54cfe3e/"/>
+    <id>https://blog.panghai.top/posts/54cfe3e/</id>
+    <published>2022-12-10T15:16:54.000Z</published>
+    <updated>2023-01-11T06:00:50.182Z</updated>
+    
+    
+    <summary type="html">在Linux中，有一个命令可以用于提供运行中的进程的动态实时信息，即top命令，但是top展示的信息是纯文字，不够明显地展示动态信息，而今天要分享的工具——gotop，它是由top命令构建出图形前端的TUI图形活动监视器，我们通过使用gotop命令来清晰地了解到服务器当前的带宽、磁盘、内存、CPU使用情况。</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.panghai.top/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Linux" scheme="https://blog.panghai.top/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>java中初始化List集合的几种方式</title>
+    <link href="https://blog.panghai.top/posts/6b37b1c3/"/>
+    <id>https://blog.panghai.top/posts/6b37b1c3/</id>
+    <published>2022-12-04T15:22:15.000Z</published>
+    <updated>2023-01-11T06:00:50.182Z</updated>
+    
+    
+    <summary type="html">正常的List初始化方式是先创建一个ArrayList对象，再将数据一个个add进去</summary>
+    
+    
+    
+    <category term="敲敲代码" scheme="https://blog.panghai.top/categories/%E6%95%B2%E6%95%B2%E4%BB%A3%E7%A0%81/"/>
+    
+    
+    <category term="java" scheme="https://blog.panghai.top/tags/java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>springboot全局异常处理中拦截器重复拦截/error问题</title>
+    <link href="https://blog.panghai.top/posts/ddd5162a/"/>
+    <id>https://blog.panghai.top/posts/ddd5162a/</id>
+    <published>2022-12-04T09:33:50.000Z</published>
+    <updated>2023-01-11T06:00:50.182Z</updated>
+    
+    
+    <summary type="html">上手了全局异常处理，感觉还不错，但是加上拦截器后竟然还出现异常信息，排错时还发现拦截器拦截了两次请求，遂将问题解决过程分享，望周知。</summary>
+    
+    
+    
+    <category term="敲敲代码" scheme="https://blog.panghai.top/categories/%E6%95%B2%E6%95%B2%E4%BB%A3%E7%A0%81/"/>
+    
+    
+    <category term="Java" scheme="https://blog.panghai.top/tags/Java/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>分享2009-至今的必应壁纸</title>
+    <link href="https://blog.panghai.top/posts/6b5b8616/"/>
+    <id>https://blog.panghai.top/posts/6b5b8616/</id>
+    <published>2022-11-29T14:21:20.000Z</published>
+    <updated>2023-01-11T06:00:50.182Z</updated>
+    
+    
+    <summary type="html">分享2009-至今的必应壁纸，抱持每日更新</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.panghai.top/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="必应壁纸" scheme="https://blog.panghai.top/tags/%E5%BF%85%E5%BA%94%E5%A3%81%E7%BA%B8/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Linux常用命令-自用</title>
+    <link href="https://blog.panghai.top/posts/d0edc1ed/"/>
+    <id>https://blog.panghai.top/posts/d0edc1ed/</id>
+    <published>2022-11-17T12:09:54.000Z</published>
+    <updated>2023-01-11T06:00:50.178Z</updated>
+    
+    
+    <summary type="html">有时候在操作服务器时需要某些命令来完成自己的目的，但并不是所有命令都能记住，在此记录个人使用Linux的一些命令合集，以便后面查阅，欢迎各位分享自己的常用命令，我也会记录到此</summary>
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.panghai.top/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Linux" scheme="https://blog.panghai.top/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>IDEA提高效率小技巧，常用插件分享</title>
+    <link href="https://blog.panghai.top/posts/2147de6f/"/>
+    <id>https://blog.panghai.top/posts/2147de6f/</id>
+    <published>2022-11-11T15:58:05.000Z</published>
+    <updated>2023-01-11T06:00:50.178Z</updated>
+    
+    
+    <summary type="html">分享一些使用IDEA过程中提高效率的小技巧，以及常用插件分享。</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.panghai.top/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="效率工具" scheme="https://blog.panghai.top/tags/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="快捷命令" scheme="https://blog.panghai.top/tags/%E5%BF%AB%E6%8D%B7%E5%91%BD%E4%BB%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Github Action自动部署博客：推送到Github公共仓库+服务器私有仓库+刷新腾讯云CDN</title>
+    <link href="https://blog.panghai.top/posts/a24c5846/"/>
+    <id>https://blog.panghai.top/posts/a24c5846/</id>
+    <published>2022-11-06T16:04:50.000Z</published>
+    <updated>2023-01-11T06:00:50.178Z</updated>
+    
+    
+    <summary type="html">随着博客文章数越来越多，hexo三连的时间越来越长，导致等待时间过长，加上可能发生的网络波动造成推送失败，为此，亲身试验Github Action自动部署博客，效果不错，值得一试。本教程改动博客较少，步骤简单，请放心食用。</summary>
+    
+    
+    
+    <category term="博客搭建" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+    <category term="Butterfly" scheme="https://blog.panghai.top/tags/Butterfly/"/>
+    
+    <category term="Action" scheme="https://blog.panghai.top/tags/Action/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用Docker快速安装Thingsboard</title>
+    <link href="https://blog.panghai.top/posts/4d148e3d/"/>
+    <id>https://blog.panghai.top/posts/4d148e3d/</id>
+    <published>2022-11-04T08:35:46.000Z</published>
+    <updated>2023-01-11T06:00:50.182Z</updated>
+    
+    
+    <summary type="html">ThingsBoard是一个开源物联网平台，主要用于数据收集、处理、可视化和设备管理，但是安装部署却是我们新手入门的一个大难题，使用docker安装可让我们省略环境配置的苦恼，节省安装时间。</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.panghai.top/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Docker" scheme="https://blog.panghai.top/tags/Docker/"/>
+    
+    <category term="Thingsboard" scheme="https://blog.panghai.top/tags/Thingsboard/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>十月份小结：暂停博客优化，开始项目实战</title>
+    <link href="https://blog.panghai.top/posts/9da9bdcd/"/>
+    <id>https://blog.panghai.top/posts/9da9bdcd/</id>
+    <published>2022-10-31T13:44:00.000Z</published>
+    <updated>2023-01-11T06:00:50.182Z</updated>
+    
+    
+    <summary type="html">总结一下八月份做了什么，有什么收获和困难，对未来有什么计划</summary>
+    
+    
+    
+    <category term="博客总结" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2%E6%80%BB%E7%BB%93/"/>
+    
+    
+    <category term="月度总结" scheme="https://blog.panghai.top/tags/%E6%9C%88%E5%BA%A6%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Nginx在Linux系统下设置开机自启</title>
+    <link href="https://blog.panghai.top/posts/e8346cb5/"/>
+    <id>https://blog.panghai.top/posts/e8346cb5/</id>
+    <published>2022-10-31T12:11:14.000Z</published>
+    <updated>2023-01-11T06:00:50.178Z</updated>
+    
+    
+    <summary type="html">平时我们使用服务器时会遇到服务不可用的情况，大概率是遇到了死锁导致服务器无法及时响应我们的请求，这时候需要重启解决服务不可用的问题，而且还要排查原因防止再次发生，不过一般情况下个人使用可以省略此步骤（好吧，是不会排查），但重启后需要手动启动应用恢复服务，所以我们需要设置一些脚本让服务器开机自启应用，今天设置如何重启nginx</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.panghai.top/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Nginx" scheme="https://blog.panghai.top/tags/Nginx/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记录一次生活杂谈</title>
+    <link href="https://blog.panghai.top/posts/8fb71ab5/"/>
+    <id>https://blog.panghai.top/posts/8fb71ab5/</id>
+    <published>2022-10-28T03:17:51.000Z</published>
+    <updated>2023-01-11T06:00:50.182Z</updated>
+    
+    
+    <summary type="html">闲聊,生活杂谈</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.panghai.top/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="闲聊" scheme="https://blog.panghai.top/tags/%E9%97%B2%E8%81%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记录一次因为pjax导致js无法生效以及解决方案</title>
+    <link href="https://blog.panghai.top/posts/6e665e82/"/>
+    <id>https://blog.panghai.top/posts/6e665e82/</id>
+    <published>2022-10-28T01:42:33.000Z</published>
+    <updated>2023-01-11T06:00:50.182Z</updated>
+    
+    
+    <summary type="html">魔改分类的时候发现有时候js/css不生效，很奇怪，后来找了许久才找到是pjax的问题，根据洪哥的pjax解决方案来完美解决失效问题</summary>
+    
+    
+    
+    <category term="博客搭建" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+    <category term="Butterfly" scheme="https://blog.panghai.top/tags/Butterfly/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用Aligo定时备份服务器文件</title>
+    <link href="https://blog.panghai.top/posts/cbb5481/"/>
+    <id>https://blog.panghai.top/posts/cbb5481/</id>
+    <published>2022-10-22T11:52:37.000Z</published>
+    <updated>2023-01-11T06:00:50.182Z</updated>
+    
+    
+    <summary type="html">在现在的互联网时代，数据显得尤为重要，我们的服务器中也有一些重要数据，如果服务器被攻击或者过期忘记取回数据，那造成的后果难以想象，所以要做好定时备份的习惯，但是人又懒怎么办呢，今天给出一个Aligo定时备份文件的解决方案</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.panghai.top/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Python" scheme="https://blog.panghai.top/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>兰空图床使用体验以及图床迁移解决方案</title>
+    <link href="https://blog.panghai.top/posts/d71ca461/"/>
+    <id>https://blog.panghai.top/posts/d71ca461/</id>
+    <published>2022-10-22T04:39:39.000Z</published>
+    <updated>2023-01-11T06:00:50.182Z</updated>
+    
+    
+    <summary type="html">最近因为图片数开始变多，仓库体积太大，部署开始变慢，想做迁移图床的打算，无独有偶，搜到国内的一个开源云上相册——兰空图床，便开始捣鼓……</summary>
+    
+    
+    
+    <category term="博客搭建" scheme="https://blog.panghai.top/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+    <category term="兰空图床" scheme="https://blog.panghai.top/tags/%E5%85%B0%E7%A9%BA%E5%9B%BE%E5%BA%8A/"/>
+    
+  </entry>
+  
+</feed>

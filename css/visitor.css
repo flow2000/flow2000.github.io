@@ -1,0 +1,83 @@
+
+/* 关于页面访问统计、访客信息样式 */
+#pvisitor,
+#ivisitor {
+    font-size: 18px;
+    padding: 20px;
+    border-radius: 12px;
+    width: 100%;
+    color: var(--font-color);
+    background-color: var(--card-bg);
+}
+
+div#pvisitor .content,
+div#ivisitor .content {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+div#pvisitor a,
+div#ivisitor a {
+    text-decoration: none;
+}
+
+#pvisitor .content div,
+#ivisitor .content div {
+    display: inline-block;
+}
+
+#pvisitor div span,
+#ivisitor div span {
+    font-size: 14px;
+    line-height: 1.3;
+    display: block;
+}
+
+#pvisitor div .num,
+#ivisitor div .num {
+    letter-spacing: 1px;
+    font-weight: bold;
+    font-size: 1.6rem;
+    margin-bottom: .8rem;
+}
+
+/* 侧边栏访问统计样式 */
+#visitor {
+    box-sizing: border-box !important;
+    margin: 0px !important;
+    font-size: 18px !important;
+    line-height: 1.7 !important;
+    color: rgb(51, 51, 51) !important;
+    background-color: rgb(255, 255, 255) !important;
+    padding: 16px 0px !important;
+    border: 1px solid rgb(255, 255, 255) !important;
+    height: auto !important;
+}
+
+[data-theme=dark] #visitor {
+    background-color: #121212 !important;
+    border: 1px solid #121212 !important;
+}
+
+#visitor div p {
+    margin: 0px !important;
+    text-align: left !important;
+}
+
+#visitor div #name {
+    color: rgb(137, 137, 137) !important;
+    display: inline-block !important;
+}
+
+[data-theme=light] #visitor div .num {
+    color: rgb(51, 51, 51) !important;
+    font-weight: bold !important;
+    float: right !important;
+}
+
+[data-theme=dark] #visitor div .num {
+    color: rgb(137, 137, 137);
+    font-weight: bold !important;
+    float: right !important;
+}
