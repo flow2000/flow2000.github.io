@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>枫叶</title>
+  <icon>https://blog.aqcoder.cn/favicon.ico</icon>
+  <subtitle>分享知识，认识世界</subtitle>
+  <link href="https://blog.aqcoder.cn/atom.xml" rel="self"/>
+  
+  <link href="https://blog.aqcoder.cn/"/>
+  <updated>2025-10-24T05:24:08.228Z</updated>
+  <id>https://blog.aqcoder.cn/</id>
+  
+  <author>
+    <name>枫叶</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>已老实，求放过</title>
+    <link href="https://blog.aqcoder.cn/posts/5966195/"/>
+    <id>https://blog.aqcoder.cn/posts/5966195/</id>
+    <published>2024-07-25T13:24:06.000Z</published>
+    <updated>2025-10-24T05:24:08.228Z</updated>
+    
+    
+    <summary type="html">本文讨论了作者的必应壁纸API项目在Vercel部署后遇到的频繁访问问题，以及为应对这一问题而采取的限流措施。作者分享了如何通过监控和数据分析来识别异常访问模式，并探讨了如何在不牺牲用户体验的情况下保护免费资源。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="闲聊" scheme="https://blog.aqcoder.cn/tags/%E9%97%B2%E8%81%8A/"/>
+    
+    <category term="必应壁纸" scheme="https://blog.aqcoder.cn/tags/%E5%BF%85%E5%BA%94%E5%A3%81%E7%BA%B8/"/>
+    
+    <category term="Vercel" scheme="https://blog.aqcoder.cn/tags/Vercel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记录自建git服务器遇到问题以及解决方法</title>
+    <link href="https://blog.aqcoder.cn/posts/d2851e0b/"/>
+    <id>https://blog.aqcoder.cn/posts/d2851e0b/</id>
+    <published>2023-12-05T11:18:00.000Z</published>
+    <updated>2025-10-24T05:24:08.229Z</updated>
+    
+    
+    <summary type="html">本文提供了如何在Linux服务器上设置Git存储库以及解决与访问权限和配置相关的常见问题的说明。</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.aqcoder.cn/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Git,服务器,shell" scheme="https://blog.aqcoder.cn/tags/Git-%E6%9C%8D%E5%8A%A1%E5%99%A8-shell/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用dns_dp自动申请证书时，出现invalid domain</title>
+    <link href="https://blog.aqcoder.cn/posts/209a0ada/"/>
+    <id>https://blog.aqcoder.cn/posts/209a0ada/</id>
+    <published>2023-11-12T12:56:15.000Z</published>
+    <updated>2025-10-24T05:24:08.228Z</updated>
+    
+    
+    <summary type="html">本文记录了在使用acme.sh申请SSL证书过程中遇到的“invalid domain”错误，并详细描述了问题的排查与解决过程。通过分享这一经验，旨在帮助读者更快地解决类似问题，提高解决问题的效率。</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.aqcoder.cn/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="证书" scheme="https://blog.aqcoder.cn/tags/%E8%AF%81%E4%B9%A6/"/>
+    
+    <category term="shell" scheme="https://blog.aqcoder.cn/tags/shell/"/>
+    
+    <category term="错误总结" scheme="https://blog.aqcoder.cn/tags/%E9%94%99%E8%AF%AF%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vscode快捷键操作记录</title>
+    <link href="https://blog.aqcoder.cn/posts/a956f319/"/>
+    <id>https://blog.aqcoder.cn/posts/a956f319/</id>
+    <published>2023-10-04T15:10:50.000Z</published>
+    <updated>2025-10-24T05:24:08.227Z</updated>
+    
+    
+    <summary type="html">本文介绍了一些在vscode中常用的快捷键，用于高效编程。</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.aqcoder.cn/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="快捷命令" scheme="https://blog.aqcoder.cn/tags/%E5%BF%AB%E6%8D%B7%E5%91%BD%E4%BB%A4/"/>
+    
+    <category term="Java" scheme="https://blog.aqcoder.cn/tags/Java/"/>
+    
+    <category term="编程" scheme="https://blog.aqcoder.cn/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不折腾服务器了</title>
+    <link href="https://blog.aqcoder.cn/posts/ae6fc3da/"/>
+    <id>https://blog.aqcoder.cn/posts/ae6fc3da/</id>
+    <published>2023-09-23T05:58:38.000Z</published>
+    <updated>2025-10-24T05:24:08.227Z</updated>
+    
+    
+    <summary type="html">作者总结了自己的服务器过期问题和博客构建路径，提到了使用GitHub、Netlify、腾讯云COS+CDN等技术来进行博客的部署和数据迁移。用户还提到了备份数据到Docker和腾讯云COS+CDN，并表示目前不打算调整博客主题。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="闲聊" scheme="https://blog.aqcoder.cn/tags/%E9%97%B2%E8%81%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记录：执行shell脚本&#39;source /etc/profile&#39;重载配置文件不生效的问题</title>
+    <link href="https://blog.aqcoder.cn/posts/e62374d9/"/>
+    <id>https://blog.aqcoder.cn/posts/e62374d9/</id>
+    <published>2023-09-02T13:02:44.000Z</published>
+    <updated>2025-10-24T05:24:08.229Z</updated>
+    
+    
+    <summary type="html">在折腾服务器时，作者自己编写脚本来安装各种环境。其中一个示例脚本是用于安装node环境。每次执行完脚本后，可以看到node的版本号，但手动运行&quot;node -v&quot;命令却失败。通过搜索，作者发现是因为在执行脚本时使用了&quot;sh install-node.sh&quot;，导致子shell无法修改父shell的环境变量。解决方法是使用&quot;source install-node.sh&quot;来执行脚本。这篇文章给出了问题的背景、原因和解决方案。</summary>
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.aqcoder.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="shell" scheme="https://blog.aqcoder.cn/tags/shell/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>这断更的三个月我干了什么</title>
+    <link href="https://blog.aqcoder.cn/posts/fca2c9db/"/>
+    <id>https://blog.aqcoder.cn/posts/fca2c9db/</id>
+    <published>2023-08-08T11:04:58.000Z</published>
+    <updated>2025-10-24T05:24:08.229Z</updated>
+    
+    
+    <summary type="html">这三个月来都没写过博客，只因为学业和工作要忙。我是一个刚刚大学毕业的，即将走上新的人生旅途的新人。我想分享这三个月的所见所闻所感</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="闲聊" scheme="https://blog.aqcoder.cn/tags/%E9%97%B2%E8%81%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>onlyoffice用Nginx反向代理遇到的大坑</title>
+    <link href="https://blog.aqcoder.cn/posts/614f4f28/"/>
+    <id>https://blog.aqcoder.cn/posts/614f4f28/</id>
+    <published>2023-05-11T07:09:04.000Z</published>
+    <updated>2025-10-24T05:24:08.227Z</updated>
+    
+    
+    <summary type="html">本文介绍了一款名为Cloudreve的开源云文件管理系统，并提供了在Docker中部署该系统的命令。此外，还介绍了如何设置wopi以预览office三件套（Word、Excel和PowerPoint）并提供了搭建Onlyoffice和Collabora Online的Nginx代理的配置方法。作者分享了自己在安装过程中遇到的问题及解决方案，包括检查Wopi请求来源的必要性等。</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.aqcoder.cn/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Docker" scheme="https://blog.aqcoder.cn/tags/Docker/"/>
+    
+    <category term="云文件管理系统" scheme="https://blog.aqcoder.cn/tags/%E4%BA%91%E6%96%87%E4%BB%B6%E7%AE%A1%E7%90%86%E7%B3%BB%E7%BB%9F/"/>
+    
+    <category term="Cloudreve" scheme="https://blog.aqcoder.cn/tags/Cloudreve/"/>
+    
+    <category term="Nginx代理" scheme="https://blog.aqcoder.cn/tags/Nginx%E4%BB%A3%E7%90%86/"/>
+    
+    <category term="预览office" scheme="https://blog.aqcoder.cn/tags/%E9%A2%84%E8%A7%88office/"/>
+    
+    <category term="Onlyoffice" scheme="https://blog.aqcoder.cn/tags/Onlyoffice/"/>
+    
+    <category term="CollaboraOnline" scheme="https://blog.aqcoder.cn/tags/CollaboraOnline/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>ffmpeg常用命令</title>
+    <link href="https://blog.aqcoder.cn/posts/3c4e255/"/>
+    <id>https://blog.aqcoder.cn/posts/3c4e255/</id>
+    <published>2023-04-29T15:15:37.000Z</published>
+    <updated>2025-10-24T05:24:08.227Z</updated>
+    
+    
+    <summary type="html">本文介绍了ffmpeg中定位视频帧的几种方法，包括使用时间戳、帧编号和关键帧等方式。此外，还涉及到了关键词搜索和像素匹配等高级定位方法。</summary>
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.aqcoder.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="ffmpeg" scheme="https://blog.aqcoder.cn/tags/ffmpeg/"/>
+    
+    <category term="音视频处理" scheme="https://blog.aqcoder.cn/tags/%E9%9F%B3%E8%A7%86%E9%A2%91%E5%A4%84%E7%90%86/"/>
+    
+    <category term="命令行工具" scheme="https://blog.aqcoder.cn/tags/%E5%91%BD%E4%BB%A4%E8%A1%8C%E5%B7%A5%E5%85%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>阿里云新建用户并授予指定权限</title>
+    <link href="https://blog.aqcoder.cn/posts/eeb9c508/"/>
+    <id>https://blog.aqcoder.cn/posts/eeb9c508/</id>
+    <published>2023-03-02T15:11:23.000Z</published>
+    <updated>2025-10-24T05:24:08.229Z</updated>
+    
+    
+    <summary type="html">在使用阿里云系列产品，需要用到账户密钥时，为确保安全，一般只是使用只有某种权限的用户，以保证泄露密钥后不会危及到其他产品系列的资源，达到损失可控，本教程旨在如何创建用户并授予指定权限，最后并拿到AccessKey安全使用API。</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.aqcoder.cn/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="阿里云" scheme="https://blog.aqcoder.cn/tags/%E9%98%BF%E9%87%8C%E4%BA%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>腾讯云新建用户并授予指定权限</title>
+    <link href="https://blog.aqcoder.cn/posts/338bc34e/"/>
+    <id>https://blog.aqcoder.cn/posts/338bc34e/</id>
+    <published>2023-03-02T15:10:50.000Z</published>
+    <updated>2025-10-24T05:24:08.229Z</updated>
+    
+    
+    <summary type="html">在使用腾讯云系列产品，需要用到账户密钥时，为确保安全，一般只是使用只有某种权限的用户，以保证泄露密钥后不会危及到其他产品系列的资源，达到损失可控，本教程旨在如何创建用户并授予指定权限，最后并拿到AccessKey安全使用API。</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.aqcoder.cn/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="腾讯云" scheme="https://blog.aqcoder.cn/tags/%E8%85%BE%E8%AE%AF%E4%BA%91/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>给你的域名申请一个泛域名证书吧</title>
+    <link href="https://blog.aqcoder.cn/posts/84609bb0/"/>
+    <id>https://blog.aqcoder.cn/posts/84609bb0/</id>
+    <published>2023-03-01T01:49:03.000Z</published>
+    <updated>2025-10-24T05:24:08.229Z</updated>
+    
+    
+    <summary type="html">你还在为个人域名的证书而烦恼嘛？试试Let&#39;s Encrypt吧，它能提供免费的泛域名证书，让你的子域名都能有一个安全的小锁头，非常适合因国内云计算厂商ssl证书数量限制而困扰的小伙伴，快来试试吧。</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.aqcoder.cn/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="证书" scheme="https://blog.aqcoder.cn/tags/%E8%AF%81%E4%B9%A6/"/>
+    
+    <category term="域名" scheme="https://blog.aqcoder.cn/tags/%E5%9F%9F%E5%90%8D/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>watchtower-一个用于自动更新Docker容器镜像的实用工具</title>
+    <link href="https://blog.aqcoder.cn/posts/299c5c1e/"/>
+    <id>https://blog.aqcoder.cn/posts/299c5c1e/</id>
+    <published>2023-02-03T11:08:12.000Z</published>
+    <updated>2025-10-24T05:24:08.227Z</updated>
+    
+    
+    <summary type="html">watchtower是一个用于自动更新Docker容器镜像的实用工具，它能够自动监控指定容器的更新，能够自动拉取最新镜像并实现平滑部署。</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.aqcoder.cn/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Docker" scheme="https://blog.aqcoder.cn/tags/Docker/"/>
+    
+    <category term="watchtower" scheme="https://blog.aqcoder.cn/tags/watchtower/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>2022年总结回顾</title>
+    <link href="https://blog.aqcoder.cn/posts/800c9b83/"/>
+    <id>https://blog.aqcoder.cn/posts/800c9b83/</id>
+    <published>2022-12-31T15:38:25.000Z</published>
+    <updated>2025-10-24T05:24:08.225Z</updated>
+    
+    
+    <summary type="html">8月份开始弄的博客，现在有4个多月了，搭建的博客也有了60篇的文章，每一篇都又自己的精力付出和自身感悟</summary>
+    
+    
+    
+    <category term="博客总结" scheme="https://blog.aqcoder.cn/categories/%E5%8D%9A%E5%AE%A2%E6%80%BB%E7%BB%93/"/>
+    
+    
+    <category term="年度总结" scheme="https://blog.aqcoder.cn/tags/%E5%B9%B4%E5%BA%A6%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记一次误操作删除了mysql容器以及后续的补救措施</title>
+    <link href="https://blog.aqcoder.cn/posts/acf7fe48/"/>
+    <id>https://blog.aqcoder.cn/posts/acf7fe48/</id>
+    <published>2022-12-30T09:42:35.000Z</published>
+    <updated>2025-10-24T05:24:08.229Z</updated>
+    
+    
+    <summary type="html">前几天想配置一下mysql容器的载挂目录，查了下资料后也照着做了，删除容器，运行容器，一切就这么自然而然，唯独没有备份数据。直到两天后我登不上图床那一刻我才发现数据库没了！</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="Docker" scheme="https://blog.aqcoder.cn/tags/Docker/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>python的网络请求库requests简单使用</title>
+    <link href="https://blog.aqcoder.cn/posts/39604062/"/>
+    <id>https://blog.aqcoder.cn/posts/39604062/</id>
+    <published>2022-12-28T13:11:24.000Z</published>
+    <updated>2025-10-24T05:24:08.227Z</updated>
+    
+    
+    <summary type="html">requests库是python中一个最常用的网络请求库，在爬虫时使用甚多。它请求的方式简单，只需简单地调用其内置地get、post等方法即可发送请求。本文章从面向对象的角度来介绍其使用方法以及源码解析。</summary>
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.aqcoder.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Python" scheme="https://blog.aqcoder.cn/tags/Python/"/>
+    
+    <category term="Python内置模块" scheme="https://blog.aqcoder.cn/tags/Python%E5%86%85%E7%BD%AE%E6%A8%A1%E5%9D%97/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>lookbusy一款用于Linux系统的虚拟负载生成器</title>
+    <link href="https://blog.aqcoder.cn/posts/5e251ac0/"/>
+    <id>https://blog.aqcoder.cn/posts/5e251ac0/</id>
+    <published>2022-12-25T08:49:15.000Z</published>
+    <updated>2025-10-24T05:24:08.227Z</updated>
+    
+    
+    <summary type="html">可以虚拟产生CPU、内存、磁盘负载，给人造成一种系统繁忙的错觉，在一些需要系统负载的达标场景中非常有用</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.aqcoder.cn/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="效率工具" scheme="https://blog.aqcoder.cn/tags/%E6%95%88%E7%8E%87%E5%B7%A5%E5%85%B7/"/>
+    
+    <category term="Linux" scheme="https://blog.aqcoder.cn/tags/Linux/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记一次js引入属性defer的坑</title>
+    <link href="https://blog.aqcoder.cn/posts/ed9358a/"/>
+    <id>https://blog.aqcoder.cn/posts/ed9358a/</id>
+    <published>2022-12-24T09:39:38.000Z</published>
+    <updated>2025-10-24T05:24:08.229Z</updated>
+    
+    
+    <summary type="html">Uncaught ReferenceError: Notiflix is not defined的解决方法，附上通用解决方法</summary>
+    
+    
+    
+    <category term="敲敲代码" scheme="https://blog.aqcoder.cn/categories/%E6%95%B2%E6%95%B2%E4%BB%A3%E7%A0%81/"/>
+    
+    
+    <category term="js" scheme="https://blog.aqcoder.cn/tags/js/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>可一键部署vercel的每日新闻</title>
+    <link href="https://blog.aqcoder.cn/posts/f6d9d29a/"/>
+    <id>https://blog.aqcoder.cn/posts/f6d9d29a/</id>
+    <published>2022-12-24T08:50:13.000Z</published>
+    <updated>2025-10-24T05:24:08.228Z</updated>
+    
+    
+    <summary type="html">好早之前在github闲逛看到zkeq的news，每日早报，还可以直接部署到vercel，本着白嫖精神也去试了试，看样式感觉还不错，就加了个二级域名解析。后来借着leonus 的微博热搜接口和自己捣鼓的B站热搜接口想了一下，何不也把这两个接口解析进去，还有url链接可以跳转过去，随后就花了两天对代码进行了重构。</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.aqcoder.cn/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Python" scheme="https://blog.aqcoder.cn/tags/Python/"/>
+    
+    <category term="Vercel" scheme="https://blog.aqcoder.cn/tags/Vercel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>分享一款用于服务器上的TUI图形活动监视器——gotop</title>
+    <link href="https://blog.aqcoder.cn/posts/54cfe3e/"/>
+    <id>https://blog.aqcoder.cn/posts/54cfe3e/</id>
+    <published>2022-12-10T15:16:54.000Z</published>
+    <updated>2025-10-24T05:24:08.228Z</updated>
+    
+    
+    <summary type="html">在Linux中，有一个命令可以用于提供运行中的进程的动态实时信息，即top命令，但是top展示的信息是纯文字，不够明显地展示动态信息，而今天要分享的工具——gotop，它是由top命令构建出图形前端的TUI图形活动监视器，我们通过使用gotop命令来清晰地了解到服务器当前的带宽、磁盘、内存、CPU使用情况。</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.aqcoder.cn/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Linux" scheme="https://blog.aqcoder.cn/tags/Linux/"/>
+    
+  </entry>
+  
+</feed>
