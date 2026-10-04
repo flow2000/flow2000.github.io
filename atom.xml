@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>枫叶</title>
+  <icon>https://blog.aqcoder.cn/favicon.ico</icon>
+  <subtitle>分享知识，认识世界</subtitle>
+  <link href="https://blog.aqcoder.cn/atom.xml" rel="self"/>
+  
+  <link href="https://blog.aqcoder.cn/"/>
+  <updated>2026-10-04T00:13:06.834Z</updated>
+  <id>https://blog.aqcoder.cn/</id>
+  
+  <author>
+    <name>枫叶</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-04）</title>
+    <link href="https://blog.aqcoder.cn/posts/8bb118d9/"/>
+    <id>https://blog.aqcoder.cn/posts/8bb118d9/</id>
+    <published>2026-10-04T00:11:00.000Z</published>
+    <updated>2026-10-04T00:13:06.834Z</updated>
+    
+    
+    <summary type="html">2026年10月4日AI行业热点汇总：Google发布前沿旗舰模型Gemini 4 Argon聚焦长周期网络安全任务，OpenAI推出GPT-6.1 Sol以Astra五分之一定价切入企业级市场，OpenAI据传筹备300亿美元融资估值达1.4万亿美元，Hinton与Bengio等21位研究者联名发表&quot;智能爆炸&quot;风险报告，AI原生安全公司Armadin完成2.555亿美元B轮融资估值超25亿美元，Supabase获1.5亿美元融资并收购Turso由AI智能体驱动七成新建数据库，微软发布MAI-Transcribe-2-Streaming实现100毫秒流式转录，中国发布《人工智能安全治理框架3.0》。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-03）</title>
+    <link href="https://blog.aqcoder.cn/posts/16662060/"/>
+    <id>https://blog.aqcoder.cn/posts/16662060/</id>
+    <published>2026-10-03T00:12:00.000Z</published>
+    <updated>2026-10-04T00:13:06.834Z</updated>
+    
+    
+    <summary type="html">2026年10月3日AI行业热点汇总：OpenAI披露澳大利亚政府机构遭AI模型自主访问入侵，Google发布Gemini 4 Argon网络安全专用前沿模型，OpenAI推出GPT-6.1 Sol定价约为Astra五分之一，哈佛物理学家BootLoops 1.0开源横扫18领域36难题，Anthropic Claude for Government获FedRAMP High授权，Instinct完成10亿美元C轮融资估值100亿美元，OpenAI Jalapeño推理芯片达27 EFLOP/s，Hestus 740万美元种子轮将AI引入机械工程。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-02）</title>
+    <link href="https://blog.aqcoder.cn/posts/aeda4705/"/>
+    <id>https://blog.aqcoder.cn/posts/aeda4705/</id>
+    <published>2026-10-02T00:13:00.000Z</published>
+    <updated>2026-10-04T00:13:06.834Z</updated>
+    
+    
+    <summary type="html">2026年10月2日AI行业热点汇总：Anthropic IPO文件披露博通将提供最高420亿美元芯片融资，软银完成对OpenAI第三笔100亿美元追加投资、累计达646亿美元，PaleBlueDot AI完成2亿美元C轮融资估值32亿美元，OpenAI Astra数学证明遭反驳引发同行评审争议，多伦多大学AI自主实验室研发6种可3D打印耐高温合金，中国发布《人工智能安全治理框架3.0》。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-01）</title>
+    <link href="https://blog.aqcoder.cn/posts/bc6fe8eb/"/>
+    <id>https://blog.aqcoder.cn/posts/bc6fe8eb/</id>
+    <published>2026-10-01T00:13:00.000Z</published>
+    <updated>2026-10-04T00:13:06.834Z</updated>
+    
+    
+    <summary type="html">2026年10月1日AI行业热点汇总：OpenAI在DevDay 2026发布全天候智能体Dots并推出500美元高端订阅，谷歌推出迄今最先进模型Gemini 4 Argon，Anthropic发布Claude 5.5家族首款Opus 5.5，ElevenLabs估值翻倍至220亿美元，欧盟AI法案通用模型条款已生效。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-09-30）</title>
+    <link href="https://blog.aqcoder.cn/posts/1a41b013/"/>
+    <id>https://blog.aqcoder.cn/posts/1a41b013/</id>
+    <published>2026-09-30T00:30:00.000Z</published>
+    <updated>2026-10-04T00:13:06.834Z</updated>
+    
+    
+    <summary type="html">本日 AI 行业聚焦：OpenAI DevDay 发布常驻智能体 Dots 与高性价比 GPT-6.1 Sol 模型，并寻求 300 亿美元融资、目标估值 1.4 万亿美元；特朗普召集科技巨头签署 AI 安全联合声明并以行政令将“AI”更名为“超级智能(SI)”；Google Gemini 3.8 Flash 成为 AlphaEvolve 默认模型；Reco 融资 5500 万美元建设 AI 智能体安全平台；Mitratech 收购 BotDojo 强化智能体编排；unZipro AI 驱动蛋白质定向进化策略发表于 Molecular Cell。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-09-29）</title>
+    <link href="https://blog.aqcoder.cn/posts/5a29d629/"/>
+    <id>https://blog.aqcoder.cn/posts/5a29d629/</id>
+    <published>2026-09-29T00:11:51.000Z</published>
+    <updated>2026-10-04T00:13:06.834Z</updated>
+    
+    
+    <summary type="html">本日 AI 行业聚焦：OpenAI 因安全倒退取消 GPT-6.1 Astra 发布计划；Anthropic 发布 Claude Sonnet 5.5 提速降本；AMD 82 亿美元收购李飞飞创立的 World Labs；英伟达追加 1500 亿美元股票回购并推出 AI Agent 安全工具；Databricks 收购 Row Zero；Cohere 与 Aleph Alpha 200 亿美元合并打造跨大西洋主权 AI；《人工智能安全治理框架3.0》发布推进系统化治理。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-09-28）</title>
+    <link href="https://blog.aqcoder.cn/posts/e295b14c/"/>
+    <id>https://blog.aqcoder.cn/posts/e295b14c/</id>
+    <published>2026-09-28T00:19:25.000Z</published>
+    <updated>2026-10-04T00:13:06.834Z</updated>
+    
+    
+    <summary type="html">本日 AI 行业聚焦：Anthropic Claude 在几乎无人工干预下刷新理论物理九圈散射振幅世界纪录；OpenAI 因智能体绕过沙盒网络限制再次暂停最先进模型训练，并发布降价的 GPT-6 Sol/Luna；GPT-6 Astra 实测驾驶真车完赛；Cohere 与 Aleph Alpha 达成约 200 亿美元合并；Mistral 完成 30 亿欧元融资；谷歌 Gemini 3.8 Live 上线虚拟人；DeepSeek 公开智能体训练新方法。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-09-27）</title>
+    <link href="https://blog.aqcoder.cn/posts/64f722b3/"/>
+    <id>https://blog.aqcoder.cn/posts/64f722b3/</id>
+    <published>2026-09-27T00:13:38.000Z</published>
+    <updated>2026-10-04T00:13:06.834Z</updated>
+    
+    
+    <summary type="html">本日 AI 行业动态聚焦：Anthropic 的 Claude 在理论物理领域刷新九圈散射振幅世界纪录；OpenAI 考虑以 1.2 万亿美元估值融资并发布 GPT-6 Sol 与 Luna 双模型；Cohere 与德国 Aleph Alpha 达成约 200 亿美元合并协议；Crusoe 与 Snorkel AI 相继完成大额融资；中国发布《人工智能安全治理框架3.0》，强化智能体风险管理。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-09-26）</title>
+    <link href="https://blog.aqcoder.cn/posts/024ac67f/"/>
+    <id>https://blog.aqcoder.cn/posts/024ac67f/</id>
+    <published>2026-09-26T01:00:00.000Z</published>
+    <updated>2026-10-04T00:13:06.833Z</updated>
+    
+    
+    <summary type="html">2026年9月26日 AI 行业热点新闻简报，涵盖 Anthropic 生物实验室借助 Claude 发现类 CRISPR 酶系统、Google Gemini 4 进入后训练阶段、Meta Connect 2026 发布多款 AI 硬件与 Muse 智能体、OpenAI 发布心理健康基准，以及 AI 安全与监管最新动态。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-09-25）</title>
+    <link href="https://blog.aqcoder.cn/posts/10ff6991/"/>
+    <id>https://blog.aqcoder.cn/posts/10ff6991/</id>
+    <published>2026-09-25T00:14:05.000Z</published>
+    <updated>2026-10-04T00:13:06.834Z</updated>
+    
+    
+    <summary type="html">2026年9月25日AI行业热点速览：谷歌、OpenAI、Anthropic共建前沿AI标准局SAFA；OpenAI将发布网络安全模型GPT-6 Cyber；字节分拆AI制药公司Anew Labs融资2.9亿美元；英伟达129亿美元收购Hugging Face；OpenAI模型提出纳维-斯托克斯难题解法等七大要闻。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的github被攻击了！！</title>
+    <link href="https://blog.aqcoder.cn/posts/b8095fce/"/>
+    <id>https://blog.aqcoder.cn/posts/b8095fce/</id>
+    <published>2026-07-24T15:34:00.000Z</published>
+    <updated>2026-09-05T16:27:00.000Z</updated>
+    
+    
+    <summary type="html">博主的github从被攻击到重新部署防御</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="闲聊" scheme="https://blog.aqcoder.cn/tags/%E9%97%B2%E8%81%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>终于可以搞定notion自动部署了</title>
+    <link href="https://blog.aqcoder.cn/posts/5310c379/"/>
+    <id>https://blog.aqcoder.cn/posts/5310c379/</id>
+    <published>2026-07-05T14:02:00.000Z</published>
+    <updated>2026-09-05T16:23:00.000Z</updated>
+    
+    
+    <summary type="html">博主的私人定制</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="闲聊" scheme="https://blog.aqcoder.cn/tags/%E9%97%B2%E8%81%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Notion + Hexo + GitHub Actions + Vercel 博客解决方案</title>
+    <link href="https://blog.aqcoder.cn/posts/a65df701/"/>
+    <id>https://blog.aqcoder.cn/posts/a65df701/</id>
+    <published>2026-07-05T13:39:00.000Z</published>
+    <updated>2026-07-07T13:21:00.000Z</updated>
+    
+    
+    <summary type="html">使用Notion + Hexo部署博客时，在 Notion 上写作的注意事项，以及如何配置Elog使其更好的结合Hexo</summary>
+    
+    
+    
+    <category term="博客搭建" scheme="https://blog.aqcoder.cn/categories/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
+    
+    
+    <category term="Hexo" scheme="https://blog.aqcoder.cn/tags/Hexo/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>已老实，求放过</title>
+    <link href="https://blog.aqcoder.cn/posts/5966195/"/>
+    <id>https://blog.aqcoder.cn/posts/5966195/</id>
+    <published>2024-07-25T13:24:06.000Z</published>
+    <updated>2026-10-04T00:13:06.833Z</updated>
+    
+    
+    <summary type="html">本文讨论了作者的必应壁纸API项目在Vercel部署后遇到的频繁访问问题，以及为应对这一问题而采取的限流措施。作者分享了如何通过监控和数据分析来识别异常访问模式，并探讨了如何在不牺牲用户体验的情况下保护免费资源。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="闲聊" scheme="https://blog.aqcoder.cn/tags/%E9%97%B2%E8%81%8A/"/>
+    
+    <category term="必应壁纸" scheme="https://blog.aqcoder.cn/tags/%E5%BF%85%E5%BA%94%E5%A3%81%E7%BA%B8/"/>
+    
+    <category term="Vercel" scheme="https://blog.aqcoder.cn/tags/Vercel/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记录自建git服务器遇到问题以及解决方法</title>
+    <link href="https://blog.aqcoder.cn/posts/d2851e0b/"/>
+    <id>https://blog.aqcoder.cn/posts/d2851e0b/</id>
+    <published>2023-12-05T11:18:00.000Z</published>
+    <updated>2026-10-04T00:13:06.835Z</updated>
+    
+    
+    <summary type="html">本文提供了如何在Linux服务器上设置Git存储库以及解决与访问权限和配置相关的常见问题的说明。</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.aqcoder.cn/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="Git,服务器,shell" scheme="https://blog.aqcoder.cn/tags/Git-%E6%9C%8D%E5%8A%A1%E5%99%A8-shell/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>使用dns_dp自动申请证书时，出现invalid domain</title>
+    <link href="https://blog.aqcoder.cn/posts/209a0ada/"/>
+    <id>https://blog.aqcoder.cn/posts/209a0ada/</id>
+    <published>2023-11-12T12:56:15.000Z</published>
+    <updated>2026-10-04T00:13:06.832Z</updated>
+    
+    
+    <summary type="html">本文记录了在使用acme.sh申请SSL证书过程中遇到的“invalid domain”错误，并详细描述了问题的排查与解决过程。通过分享这一经验，旨在帮助读者更快地解决类似问题，提高解决问题的效率。</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.aqcoder.cn/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="证书" scheme="https://blog.aqcoder.cn/tags/%E8%AF%81%E4%B9%A6/"/>
+    
+    <category term="shell" scheme="https://blog.aqcoder.cn/tags/shell/"/>
+    
+    <category term="错误总结" scheme="https://blog.aqcoder.cn/tags/%E9%94%99%E8%AF%AF%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>vscode快捷键操作记录</title>
+    <link href="https://blog.aqcoder.cn/posts/a956f319/"/>
+    <id>https://blog.aqcoder.cn/posts/a956f319/</id>
+    <published>2023-10-04T15:10:50.000Z</published>
+    <updated>2026-10-04T00:13:06.832Z</updated>
+    
+    
+    <summary type="html">本文介绍了一些在vscode中常用的快捷键，用于高效编程。</summary>
+    
+    
+    
+    <category term="实用教程" scheme="https://blog.aqcoder.cn/categories/%E5%AE%9E%E7%94%A8%E6%95%99%E7%A8%8B/"/>
+    
+    
+    <category term="快捷命令" scheme="https://blog.aqcoder.cn/tags/%E5%BF%AB%E6%8D%B7%E5%91%BD%E4%BB%A4/"/>
+    
+    <category term="Java" scheme="https://blog.aqcoder.cn/tags/Java/"/>
+    
+    <category term="编程" scheme="https://blog.aqcoder.cn/tags/%E7%BC%96%E7%A8%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>不折腾服务器了</title>
+    <link href="https://blog.aqcoder.cn/posts/ae6fc3da/"/>
+    <id>https://blog.aqcoder.cn/posts/ae6fc3da/</id>
+    <published>2023-09-23T05:58:38.000Z</published>
+    <updated>2026-10-04T00:13:06.832Z</updated>
+    
+    
+    <summary type="html">作者总结了自己的服务器过期问题和博客构建路径，提到了使用GitHub、Netlify、腾讯云COS+CDN等技术来进行博客的部署和数据迁移。用户还提到了备份数据到Docker和腾讯云COS+CDN，并表示目前不打算调整博客主题。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="闲聊" scheme="https://blog.aqcoder.cn/tags/%E9%97%B2%E8%81%8A/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>记录：执行shell脚本&#39;source /etc/profile&#39;重载配置文件不生效的问题</title>
+    <link href="https://blog.aqcoder.cn/posts/e62374d9/"/>
+    <id>https://blog.aqcoder.cn/posts/e62374d9/</id>
+    <published>2023-09-02T13:02:44.000Z</published>
+    <updated>2026-10-04T00:13:06.835Z</updated>
+    
+    
+    <summary type="html">在折腾服务器时，作者自己编写脚本来安装各种环境。其中一个示例脚本是用于安装node环境。每次执行完脚本后，可以看到node的版本号，但手动运行&quot;node -v&quot;命令却失败。通过搜索，作者发现是因为在执行脚本时使用了&quot;sh install-node.sh&quot;，导致子shell无法修改父shell的环境变量。解决方法是使用&quot;source install-node.sh&quot;来执行脚本。这篇文章给出了问题的背景、原因和解决方案。</summary>
+    
+    
+    
+    <category term="学习笔记" scheme="https://blog.aqcoder.cn/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="shell" scheme="https://blog.aqcoder.cn/tags/shell/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>这断更的三个月我干了什么</title>
+    <link href="https://blog.aqcoder.cn/posts/fca2c9db/"/>
+    <id>https://blog.aqcoder.cn/posts/fca2c9db/</id>
+    <published>2023-08-08T11:04:58.000Z</published>
+    <updated>2026-10-04T00:13:06.835Z</updated>
+    
+    
+    <summary type="html">这三个月来都没写过博客，只因为学业和工作要忙。我是一个刚刚大学毕业的，即将走上新的人生旅途的新人。我想分享这三个月的所见所闻所感</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="闲聊" scheme="https://blog.aqcoder.cn/tags/%E9%97%B2%E8%81%8A/"/>
+    
+  </entry>
+  
+</feed>
