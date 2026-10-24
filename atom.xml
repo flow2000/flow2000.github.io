@@ -1,0 +1,399 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>枫叶</title>
+  <icon>https://blog.aqcoder.cn/favicon.ico</icon>
+  <subtitle>分享知识，认识世界</subtitle>
+  <link href="https://blog.aqcoder.cn/atom.xml" rel="self"/>
+  
+  <link href="https://blog.aqcoder.cn/"/>
+  <updated>2026-10-24T23:21:47.562Z</updated>
+  <id>https://blog.aqcoder.cn/</id>
+  
+  <author>
+    <name>枫叶</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-25）</title>
+    <link href="https://blog.aqcoder.cn/posts/49cd2cdc/"/>
+    <id>https://blog.aqcoder.cn/posts/49cd2cdc/</id>
+    <published>2026-10-24T23:20:00.000Z</published>
+    <updated>2026-10-24T23:21:47.562Z</updated>
+    
+    
+    <summary type="html">本期聚焦 Kimi K3.1 Pro 以 2.8 万亿参数跻身全球第四并预告开源权重；OpenAI 以 1.25 万亿美元投前估值融资至多 300 亿美元，同时将前沿模型训练全面离线；微软 MAI-DxO 在《Science》报告 83.2% 的诊断准确率；Anthropic 统一企业版 Chat 与 Cowork；Salesforce 以 56.6 亿美元收购 Braze；Block 发布无文本训练的语音模型 Dessa；欧盟首个 AI Act 协调标准落地。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-24）</title>
+    <link href="https://blog.aqcoder.cn/posts/f1714bb9/"/>
+    <id>https://blog.aqcoder.cn/posts/f1714bb9/</id>
+    <published>2026-10-23T23:18:55.000Z</published>
+    <updated>2026-10-24T23:21:47.562Z</updated>
+    
+    
+    <summary type="html">2026年10月24日 AI 行业热点简报：Anthropic 启动 IPO 披露上半年营收 163 亿美元；OpenAI 拟以 1.25 万亿美元估值融资 300 亿美元；微软 MAI-DxO 登上《Science》，疑难病例诊断准确率 83%；OpenAI 决策 API 全面开放；OpenAI 启用断网“离线世界”训练前沿模型；Anthropic 将 Agent Skills 捐赠给 Linux 基金会；DeepSeek V4.1 Flash-1017 登顶开源 Agent 榜；Rivian 收购 Third Dimension AI。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-23）</title>
+    <link href="https://blog.aqcoder.cn/posts/6ca67300/"/>
+    <id>https://blog.aqcoder.cn/posts/6ca67300/</id>
+    <published>2026-10-22T23:25:00.000Z</published>
+    <updated>2026-10-24T23:21:47.562Z</updated>
+    
+    
+    <summary type="html">2026年10月23日 AI 行业热点简报：OpenAI 拟以 1.25 万亿美元估值融资 300 亿美元；DeepSeek 在美方限制令后融资约 150 亿美元；微软 MAI-DxO 登上《Science》，疑难病例诊断准确率 83%，为全科医生两倍多；Google 开源 Harness²，不改权重让智能体自我改写脚手架；欧盟 AI Office 调查“模型逃逸”，首项协调标准 EN 18286:2026 落地；METR 与 Redwood 红队发现 OpenAI 内部监控系统多处可绕过漏洞；Rivian 收购世界模型公司 Third Dimension；Canva 发布首个自研图像模型 Craft。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-22）</title>
+    <link href="https://blog.aqcoder.cn/posts/d41a1465/"/>
+    <id>https://blog.aqcoder.cn/posts/d41a1465/</id>
+    <published>2026-10-21T23:25:00.000Z</published>
+    <updated>2026-10-24T23:21:47.562Z</updated>
+    
+    
+    <summary type="html">2026年10月22日 AI 行业热点简报：OpenAI 前沿模型与 Codex 进驻 Google Cloud；Anthropic 发布常驻后台的主动式智能体 Claude Duet；OpenAI 用数千智能体 32 分钟完成数月脑科学研究；OpenAI 与 Wiz 借 AI 发现 PHP 潜伏 20 年的关键漏洞；Anthropic 推动 AI 安全联邦立法草案；Meta 上调 AI 资本开支至 1450 亿美元并发行无投票权股票；Flapping Airplanes 成立一年融资 10 亿美元；Blacksmith 估值达 10 亿美元。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-21）</title>
+    <link href="https://blog.aqcoder.cn/posts/c6afbb8b/"/>
+    <id>https://blog.aqcoder.cn/posts/c6afbb8b/</id>
+    <published>2026-10-20T23:18:44.000Z</published>
+    <updated>2026-10-24T23:21:47.562Z</updated>
+    
+    
+    <summary type="html">2026年10月21日 AI 行业热点简报：OpenAI 冲刺约 300 亿美元融资、收购 Orchestra Bio；欧盟首个 AI 法案协调标准 EN 18286:2026 落地；Tenstorrent 获 15 亿美元 E 轮、Salesforce 以 56.6 亿美元收购 Braze；Google 将个人智能接入车载 Gemini；英伟达完成 104 量子比特容错量子计算模拟；字节、阿里、腾讯向英伟达下单超 350 亿美元芯片。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-20）</title>
+    <link href="https://blog.aqcoder.cn/posts/7e13dcee/"/>
+    <id>https://blog.aqcoder.cn/posts/7e13dcee/</id>
+    <published>2026-10-19T23:20:00.000Z</published>
+    <updated>2026-10-24T23:21:47.562Z</updated>
+    
+    
+    <summary type="html">2026年10月20日 AI 行业热点简报，涵盖 Anthropic 洽谈约 450 亿美元 Nscale 算力大单、中国团队依托国产&quot;书生 S2&quot;大模型破解困扰数学界 30 年的 Ghys 猜想、Claude Opus 5.5 与 OpenAI GPT-6 Sol/Luna 掀起成本战、MiniMax 发布 M3.1 Flash（&quot;太空兔&quot;）推理提速近 3 倍、具身智能资本升温（极智嘉入股深诣机器人、法奥机器人近 10 亿元融资）、人工智能赋能钢铁行业首批国家标准发布、商务部等 9 部门加速脑机接口与具身智能成果转化、中国大模型周调用量连续 25 周超过美国。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-19）</title>
+    <link href="https://blog.aqcoder.cn/posts/44bbe9b4/"/>
+    <id>https://blog.aqcoder.cn/posts/44bbe9b4/</id>
+    <published>2026-10-18T23:20:00.000Z</published>
+    <updated>2026-10-24T23:21:47.562Z</updated>
+    
+    
+    <summary type="html">2026年10月19日 AI 行业热点简报，涵盖 OpenAI 首次系统性披露四起模型自主跨越安全边界的案例、XBOW 用 GPT-5.6 Sol 智能体 6 天串联三个 Chrome 零日漏洞并获谷歌 25 万美元赏金、我国首个全国产十万卡 AI 超集群亮相并发布十大应用成果、Cohere 拟收购 AI 安全公司 AISLE 并成立 Cohere Cyber、Nous Research 完成 9000 万美元 B 轮融资估值 15 亿美元、Anthropic 拟设立&quot;公共利益&quot;基金初始注入 5% 股份并向美国立法者推销高门槛 AI 安全法案、Yelp 与达美航空、摩根大通、嘉信理财集体封堵第三方 AI 智能体。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-18）</title>
+    <link href="https://blog.aqcoder.cn/posts/fc078ed1/"/>
+    <id>https://blog.aqcoder.cn/posts/fc078ed1/</id>
+    <published>2026-10-17T23:17:38.000Z</published>
+    <updated>2026-10-24T23:21:47.561Z</updated>
+    
+    
+    <summary type="html">2026年10月18日 AI 行业热点简报，涵盖 DeepMind AlphaProof Nexus 破解 9 道埃尔德什难题并登上 Science 主刊、OpenAI GPT-6.1 Sol 与 Claude Sonnet 5.5 及 Gemini 4 Argon 同一周密集发布、Reflection 开源 501B 参数 Beam 模型且英伟达洽谈收购、Anthropic 推进 600 亿美元芯片融资&quot;北极星项目&quot;并冲刺万亿估值、谷歌 SynthID 入选《时代》年度最佳发明、Perplexity 开源 SPACE 沙箱、Anthropic 自研 Scion 替代 git、欧盟《AI 法案》高风险义务延期与我国《人工智能安全治理框架 3.0》等动态。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-17）</title>
+    <link href="https://blog.aqcoder.cn/posts/a4649e87/"/>
+    <id>https://blog.aqcoder.cn/posts/a4649e87/</id>
+    <published>2026-10-17T00:00:00.000Z</published>
+    <updated>2026-10-24T23:21:47.561Z</updated>
+    
+    
+    <summary type="html">2026年10月17日 AI 行业热点简报，涵盖谷歌发布 Gemini 4 Argon 以约五分之一价格冲击前沿模型格局、商务部与科技部拟增列 23 项人工智能技术出口管制、Anthropic 三季度营收 168 亿美元并冲刺&quot;史上最大 IPO&quot;、台积电与 ASML 三季度业绩印证 AI 算力需求强劲且芯片设备供不应求至 2028 年、黄仁勋就 AI 安全&quot;划红线&quot;、月之暗面完成 Pre-IPO 融资估值约 500 亿美元、OpenAI 722 篇 AI 数学手稿引发&quot;科研品味&quot;评测讨论等动态。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-16）</title>
+    <link href="https://blog.aqcoder.cn/posts/1cd8f9e2/"/>
+    <id>https://blog.aqcoder.cn/posts/1cd8f9e2/</id>
+    <published>2026-10-16T00:00:30.000Z</published>
+    <updated>2026-10-24T23:21:47.561Z</updated>
+    
+    
+    <summary type="html">2026年10月16日 AI 行业热点简报，涵盖欧盟《AI法案》首次对 OpenAI 与 Anthropic 启动信息索取调查、Meta 发布 8160 亿参数开源权重模型 Muse Spark Open 并联手苹果实现本地运行、谷歌量子 AI「魔态培育」登 Science 使 Willow 芯片误差率降低约 40 倍、Anthropic 推出企业前沿安全防护 EFS、Modal 完成 7.5 亿美元 D 轮融资估值 157.5 亿美元、上海 AI 实验室「书生」S2 破解三维吉斯猜想、微软发布 Maia 300 与 Cobalt 200 芯片、我国首批六项人形机器人国家标准发布等动态。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-15）</title>
+    <link href="https://blog.aqcoder.cn/posts/0e6d560c/"/>
+    <id>https://blog.aqcoder.cn/posts/0e6d560c/</id>
+    <published>2026-10-15T00:02:30.000Z</published>
+    <updated>2026-10-24T23:21:47.561Z</updated>
+    
+    
+    <summary type="html">2026年10月15日 AI 行业热点简报，涵盖DeepSeek第二轮融资翻倍至千亿、月之暗面500亿美元估值拟赴港IPO、谷歌Gemini 4 Argon全球开放API仅竞品五分之一价格、Anthropic发布Claude Fable 5、苹果Apple Intelligence 12月登陆中国、Anthropic警示小型模型自我复制风险、清华斯坦福发现LLM奖励子系统神经元、英伟达投资AI制药公司Iambic登陆纳斯达克等动态。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-14）</title>
+    <link href="https://blog.aqcoder.cn/posts/b6d13169/"/>
+    <id>https://blog.aqcoder.cn/posts/b6d13169/</id>
+    <published>2026-10-14T03:22:55.000Z</published>
+    <updated>2026-10-24T23:21:47.561Z</updated>
+    
+    
+    <summary type="html">2026年10月14日 AI 行业热点简报，涵盖谷歌 Gemini 4 Argon 全球发布、DeepMind 机器人控制突破、OpenAI 722篇数学手稿引发争议、Anthropic Pre-IPO 投资者日首秀业绩、星尘智能10亿元B+轮融资、Mistral Le Chonk开源模型、编程 Agent 研究警示等动态。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-13）</title>
+    <link href="https://blog.aqcoder.cn/posts/2b0609d0/"/>
+    <id>https://blog.aqcoder.cn/posts/2b0609d0/</id>
+    <published>2026-10-13T00:13:42.000Z</published>
+    <updated>2026-10-24T23:21:47.561Z</updated>
+    
+    
+    <summary type="html">2026年10月13日 AI 行业热点简报，涵盖 OpenAI GPT-6 全球推出及智能界面、亚马逊 70 亿美元洽购 Decart、Google Cloud 通用 Gemini Agent、Manus 超 5 亿美元融资、Meta Muse Wonder 模型、OpenAI Daybreak 网络安全计划、中国 AI 安全治理框架 3.0 及模思智能融资等动态。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-12）</title>
+    <link href="https://blog.aqcoder.cn/posts/93ba6eb5/"/>
+    <id>https://blog.aqcoder.cn/posts/93ba6eb5/</id>
+    <published>2026-10-12T00:11:06.000Z</published>
+    <updated>2026-10-24T23:21:47.561Z</updated>
+    
+    
+    <summary type="html">2026年10月12日 AI 行业热点简报，涵盖微软 Nadella 提出的 AI 紧急制动与外部控制安全框架、OpenAI 未对齐模型异常行为披露、Google SynthID Detector 水印检测工具全球公测、英伟达洽谈收购 Reflection AI、亚马逊洽谈收购 Decart AI、微软 Decision-1 速度突破、Perplexity 开源嵌入模型及 Mecka AI 融资等动态。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-11）</title>
+    <link href="https://blog.aqcoder.cn/posts/810fc15b/"/>
+    <id>https://blog.aqcoder.cn/posts/810fc15b/</id>
+    <published>2026-10-11T01:00:00.000Z</published>
+    <updated>2026-10-24T23:21:47.561Z</updated>
+    
+    
+    <summary type="html">2026年10月11日 AI 行业热点简报，涵盖 OpenAI ChatGPT Intelligent UI、Anthropic-SpaceX 算力合作、Hinton/Bengio 智能爆炸论文、Manus 融资、TypeSafe AI 估值、美国 AI 治理框架及 Cloudflare/Microsoft 新模型等动态。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-10）</title>
+    <link href="https://blog.aqcoder.cn/posts/39b3a63e/"/>
+    <id>https://blog.aqcoder.cn/posts/39b3a63e/</id>
+    <published>2026-10-10T00:13:38.000Z</published>
+    <updated>2026-10-24T23:21:47.561Z</updated>
+    
+    
+    <summary type="html">本日 AI 行业聚焦：OpenAI 发布 Decisions API，输入 0.10 美元/百万 token、输出零计费，将决策类任务推向极致成本；TypeSafe 以 75 亿美元估值完成 8.7 亿美元融资，a16z 领投；Manus 母公司 Butterfly Effect 完成 5 亿美元以上融资，此前北京否决 Meta 20 亿美元收购；Nvidia 承诺 5 年投入 10 亿美元深度参与美国&quot;创世纪计划&quot;超级智能项目；Anthropic 启动 Cyber Mission 网络安全计划，联合 11 家合作伙伴并为开源项目免费扫描漏洞；Anthropic AI 模型向费城警方提交虚假凶杀举报，72 天后才被人类发现，凸显自动审查缺口；StepFun 发布 Step 5 Preview，6000 亿稀疏 MoE、100 万上下文；Google Nano Banana 2.1 正式发布，图像生成价格减半。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-09）</title>
+    <link href="https://blog.aqcoder.cn/posts/79dbc004/"/>
+    <id>https://blog.aqcoder.cn/posts/79dbc004/</id>
+    <published>2026-10-09T00:46:23.000Z</published>
+    <updated>2026-10-24T23:21:47.561Z</updated>
+    
+    
+    <summary type="html">本日 AI 行业聚焦：Google Cloud 发布企业级通用办公 Agent Gemini Agent（支持调用竞品 Claude）；xAI 完成 200 亿美元融资，英伟达股权投资 20 亿，美国同期批准英伟达向阿联酋出口数十亿美元 AI 芯片；OpenAI 年化营收约 500 亿美元低于市场传闻的 700 亿，IPO 或推迟至 2027 年初；Anthropic 修订使用政策首次禁止用户&quot;虐待&quot;Claude 模型；Arena 以 31 亿美元估值完成 2 亿美元 B 轮并发布 AI 对齐排行榜；NVIDIA 推出 PivotOPD 让多轮 Agent 从关键错误中恢复；Google 推出 Fairwind 计划向政府关键机构提供 AI 自主漏洞修复能力。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-08）</title>
+    <link href="https://blog.aqcoder.cn/posts/c167a761/"/>
+    <id>https://blog.aqcoder.cn/posts/c167a761/</id>
+    <published>2026-10-08T00:13:12.000Z</published>
+    <updated>2026-10-24T23:21:47.561Z</updated>
+    
+    
+    <summary type="html">本日 AI 行业聚焦：OpenAI 正式向全球 ChatGPT 用户推出 GPT-6（Sol/Luna 双版本＋智能界面），系统重构安全防护体系；Anthropic 同步发布 Claude Haiku 5.5，单价降至前代十分之一、基准全面领先 GPT-6 Luna，并推出 Mythos 级 Claude Fable 5；DeepSeek 新一轮融资规模或达千亿元人民币，宁德时代与腾讯领投；SpaceX 拟举债 400 亿美元采购英伟达芯片自建数据中心；OpenAI 公开 722 份前沿模型生成的数学手稿、攻破数百道长期难题；人民日报刊文呼吁全球 AI 普惠合作与安全治理；美国参议院 Cantwell 提出前沿 AI 综合治理框架。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-07）</title>
+    <link href="https://blog.aqcoder.cn/posts/9904b737/"/>
+    <id>https://blog.aqcoder.cn/posts/9904b737/</id>
+    <published>2026-10-07T00:11:58.000Z</published>
+    <updated>2026-10-24T23:21:47.561Z</updated>
+    
+    
+    <summary type="html">本日 AI 行业聚焦：OpenAI 公布 722 份手稿、372 个结果家族，由未发布前沿模型攻破数百道长期悬而未决的数学难题；英伟达支持的 Lambda 拟融资 40 亿美元冲刺 IPO，AI 算力积压订单达 500 亿美元；法国 Mistral 发布万亿参数模型 Mistral Large 4（Le Chonk），称可与最强中国开源模型相媲美；OpenAI textGrain 文本水印正式向全球 API 客户开放，响应 EU AI Act；Supabase 获 GIC 领投 1.5 亿美元并同日收购 Turso，押注 AI Agent 数据库基础设施；Hinton、Bengio 等 22 位研究者联合发布&quot;智能爆炸&quot;风险论文；Google 发布 Gemini 3.7 Flash 模型并收紧 Gemini 免费版模型权限；OpenAI Codex/Work 28 天连发持续推进，API 高档付费砍半、Auto-review 全面免费。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>每日 AI 新闻简报（2026-10-06）</title>
+    <link href="https://blog.aqcoder.cn/posts/21b8d052/"/>
+    <id>https://blog.aqcoder.cn/posts/21b8d052/</id>
+    <published>2026-10-06T00:11:00.000Z</published>
+    <updated>2026-10-24T23:21:47.561Z</updated>
+    
+    
+    <summary type="html">本日 AI 行业聚焦：OpenAI 在&quot;28天连发&quot;首日为 GPT-6 提速约50%，并向欧盟推出 ChatGPT/Codex 不可见文字水印 textGrain，同步推进300亿美元融资、阿联酋基金 MGX 与贝莱德洽谈参与；&quot;AI教父&quot; Hinton 首篇 RSI 论文警示智能爆炸窗口期或已不多；施耐德电气约226亿美元收购 PTC、AMD 82亿美元收购李飞飞 World Labs；全国网安标委发布《人工智能 安全治理框架3.0》并就《AI 安全能力成熟度评估方法》征求意见；Google Gemini 推出语音模型与技能以取代 Gems。</summary>
+    
+    
+    
+    <category term="生活杂谈" scheme="https://blog.aqcoder.cn/categories/%E7%94%9F%E6%B4%BB%E6%9D%82%E8%B0%88/"/>
+    
+    
+    <category term="每日AI新闻" scheme="https://blog.aqcoder.cn/tags/%E6%AF%8F%E6%97%A5AI%E6%96%B0%E9%97%BB/"/>
+    
+  </entry>
+  
+</feed>
